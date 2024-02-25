@@ -1,8 +1,7 @@
 # Hi there, I'm Amanda 👋
 
 ## 🏫 Academic Profiles
-
-[![YouTube Badge](https://img.shields.io/badge/acyc99-YouTube?logo=YouTube&logoColor=%23ff0000&label=YouTube&labelColor=%23ffffff&color=%23ff0000)](https://www.youtube.com/@acyc99)
+[![YouTube Badge](https://img.shields.io/badge/acyc99-YouTube?logo=YouTube&logoColor=%23ff79c6&label=YouTube&labelColor=%2360a3bc&color=%2360a3bc)](https://www.youtube.com/@acyc99)
 
 ## Personal Profiles 
 
@@ -19,6 +18,8 @@
 
 
 <!--
+[![YouTube Badge](https://img.shields.io/badge/acyc99-YouTube?logo=YouTube&logoColor=%23ff0000&label=YouTube&labelColor=%23ffffff&color=%23ff0000)](https://www.youtube.com/@acyc99)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=achang140&bg_color=FF92C2&title_color=FFE538)](https://github.com/achang140/github-readme-stats)
+
 --> 
 
