@@ -1,7 +1,7 @@
 # Hi there, I'm Amanda 👋
 
 ## 🏫 Academic Profiles
-[![YouTube Badge](https://img.shields.io/badge/acyc99-YouTube?logo=YouTube&logoColor=%23ff0000&label=YouTube&labelColor=%23385d7f&color=%230f0f23)](https://www.youtube.com/@acyc99)
+[![YouTube Badge](https://img.shields.io/badge/acyc99-YouTube?logo=YouTube&logoColor=%23ff0000&label=YouTube&labelColor=%23ff79c6&color=%231d3557)](https://www.youtube.com/@acyc99)
 
 ## Personal Profiles 
 
