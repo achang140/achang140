@@ -6,7 +6,7 @@
 
 ## Personal Profiles 
 
-[![GitHub Badge](https://img.shields.io/badge/achang140-GitHub?logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%23000000&color=%23ffffff)](https://github.com/acyc99)
+[![GitHub Badge](https://img.shields.io/badge/acyc99-GitHub?logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%23000000&color=%23ffffff)](https://github.com/acyc99)
 
 ## 🌐 Connect with Me
 
