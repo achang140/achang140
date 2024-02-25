@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/changamanda999@gmail.com-Gmail?logo=Gmail&logoColor=%23FF0000&label=Gmail&labelColor=%231d3557&color=%23ff79c6)](mailto:changamanda999@gmail.com)
 
 ## :octocat: GitHub Stats 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=achang140&theme=radical&hide_progress=false)](https://github.com/achang140/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=achang140&theme=radical&layout=compact)](https://github.com/achang140/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=achang140&theme=radical&show_icons=true)](https://github.com/achang140)
 
 <!--
