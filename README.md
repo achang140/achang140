@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/changamanda999@gmail.com-Gmail?logo=Gmail&logoColor=%23FF0000&label=Gmail&labelColor=%23000000&color=%23FF0000)](mailto:changamanda999@gmail.com)
 
 ## Most Used Languages 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=achang140&bg_color=ADD8E6&title_color=ff69b4)](https://github.com/achang140/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=achang140&bg_color=FF005B&title_color=FFE538)](https://github.com/achang140/github-readme-stats)
 
 
 <!--
