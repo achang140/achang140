@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋
+# Hi there, I'm Amanda 👋
 
 ## 🏫 Academic Profiles
 
