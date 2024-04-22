@@ -1,8 +1,10 @@
 # Hi there, I'm Amanda 👋
 
 ## 🏫 Academic Profiles
-[![GitHub Badge](https://img.shields.io/badge/acyc99-GitHub?logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%231d3557&color=%23ff79c6)](https://github.com/acyc99)
 [![YouTube Badge](https://img.shields.io/badge/acyc99-YouTube?logo=YouTube&logoColor=%23ff0000&label=YouTube&labelColor=%231d3557&color=%23ff79c6)](https://www.youtube.com/@acyc99)
+
+## 😃 Personal Profiles 
+[![GitHub Badge](https://img.shields.io/badge/acyc99-GitHub?logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%231d3557&color=%23ff79c6)](https://github.com/acyc99)
 
 ## 🌐 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/Amanda_Chang-LinkedIn?logo=linkedin&logoColor=%230000ff&label=LinkedIn&labelColor=%23ff79c6&color=%231d3557)](https://www.linkedin.com/in/amanda-cy-chang/)
